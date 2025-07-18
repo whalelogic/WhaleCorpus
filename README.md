@@ -1,4 +1,4 @@
-## 🧠📚 Research Vault: Science, Philosophy, Politics & GenAI
+## 🐋 Whaler Research PDF-Vault: Science, Philosophy and Politics as they relate to Generative AI.  🤖
 
 > _A curated repository of PDF research papers spanning_ **Science**, **Physics**, **Philosophy**, and **Politics** — _disciplines united by their pursuit of truth_ — _plus the latest breakthroughs in_ **Generative AI**.
 
@@ -31,7 +31,7 @@
 ## 📁 Folder Structure
 
 ```plaintext
-research-vault/
+WhalerResearch-PDF/
 ├── science/
 ├── physics/
 ├── philosophy/
