@@ -38,15 +38,16 @@ WhalerResearch-PDF/
 ├── politics/
 └── genai/
 Each folder contains thematically grouped, peer-reviewed PDFs and curated notes.
-
+```
 📌 Usage
-Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/research-vault.git
-cd research-vault
+Clone the repo ⏬
+
+```
+git clone https://github.com/xWhaler/WhalerResearch-PDF
+cd WhalerResearch-PDF
+go run .
+```
 Explore the subfolders and open any .pdf using your preferred viewer.
 
 📎 Recommended Tools
