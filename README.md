@@ -1,4 +1,4 @@
-## 🐋 Whaler Research PDF-Vault: Science, Philosophy and Politics as they relate to Generative AI.  🤖
+## 🐋 WhaleLogic PDF-Vault: Science, Philosophy and Politics as they relate to Generative AI.  🤖
 
 > _A curated repository of PDF research papers spanning_ **Machine Learning**, **Generative AI**, **Human-Computer Interaction 🤖, Ethics,** **Philosophy!** :godmode: _Sources include World Economic Forum, Research Gate, and Accredited Science Journals._ 
 
