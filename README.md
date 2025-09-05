@@ -1,4 +1,4 @@
-# 🐋 Whaler Knowledge Base
+# 🐋 WhaleLogic Knowledge Base
 
 **A doctoral-level knowledge base and research environment for software engineering, AI, and business growth.**
 
