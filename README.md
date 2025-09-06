@@ -78,18 +78,5 @@ knowledge-base/
 
 ---
 
-## 🚀 Vision
 
-This project isn’t just a repo. It’s a **doctoral self-education platform** and a **business incubator knowledge engine**.  
-
-By combining **deep CS theory**, **practical engineering**, **AI research**, and **entrepreneurial strategy**, this knowledge base aims to:  
-
-- Serve as the backbone for building **production-grade systems**.  
-- Provide the knowledge to scale from **individual projects → SaaS products → companies**.  
-- Create a **personal AI mentor** to push research and business development forward.  
-
----
-
-## 🔑 Guiding Principle
-**Learn deeply. Build boldly. Share openly.**  
 
