@@ -5,7 +5,7 @@
 
 This repo is a collection of publications and research papers on Computer Science, Engineering, Philosophy, and other topics I find interesting. 
 
-<img width="280" height="360" alt="sized-sailor" src="https://github.com/user-attachments/assets/86c7219e-7b4b-453c-9454-cfa9933566c4" />
+<img width="280" height="360" alt="whalelogic-banner" src="https://github.com/user-attachments/assets/e684e5e6-5952-499a-92e0-25f3543a9e8c" />
 
 
 **A knowledge base and research environment for software engineering, AI, and the Future.**
