@@ -17,22 +17,6 @@ This repository is designed to serve as a **living textbook + research archive +
 - Act as a **self-hosted mentor/PhD advisor in a box** — a system you can query and expand over time.  
 
 
-
-## 🏛 Eventual Structure
-
-##### Containing work from past and present 
-```
-WhaleCorpus/
-├── software/ # Go, Python, design patterns
-├── cloud/ # Distributed systems, Kubernetes, edge
-├── ai/ # Deep learning, LLMs, RAG, ethics
-├── data/ # Pipelines, big data
-├── research/ # Papers, notes, experiments
-└── personal/ # Productivity, learning paths
-```
-
-
-
 ## 📚 Core Topics
 
 - **Foundations** → Algorithms, complexity, probability, optimization, security.  
